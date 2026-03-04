@@ -9,4 +9,4 @@ Bienvenue sur mon portfolio GitHub !   Vous trouverez ici tous mes projets réce
    Version privée archivées du projet Student Event Hub. Contient les anciennes versions et expérimentations. **Privé** – accès sur invitation.
 
 3. [Hovercraft](https://github.com/Allix05/HOVERCRAFT)  
-   Projet de simulation d’un hovercraft qui termine un labyrinthe. Langage C. **Public** – accès sur invitation.
+   Projet de simulation d’un hovercraft qui termine un labyrinthe. Langage C. **Public** .
