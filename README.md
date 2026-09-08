@@ -2,12 +2,12 @@
 Bienvenue sur mon portfolio GitHub !   Vous trouverez ici tous mes projets récents, avec une courte description et un lien direct vers chaque repository.
 ## Projets récents
 
-1. [Hovercraft](https://github.com/Allix05/HOVERCRAFT)  
+1. 🏆 [Hovercraft](https://github.com/Allix05/HOVERCRAFT) &mdash; *projet primé*  
    Projet de simulation d’un hovercraft qui termine un labyrinthe. Langage C. **Public** .
 
 
 2. [Student Event Hub - SOEN341](https://github.com/Allix05/SOEN-341---PROJECT-1---Student-Event_hub)  
-   Projet pour la classe SOEN 341 à Concordia University. Gestion d’événements étudiants avec fonctionnalités de création, modification et suivi des événements. **Public**.
+   Plateforme de gestion d'événements étudiants développée pour le cours SOEN 341 à Concordia University : création, modification et suivi des événements en temps réel. **Public**.
 
 
 3. [AlphaZero Connect Four](https://github.com/Allix05/alphazero-connect4) &mdash; [**jouer en ligne**](https://allix05.github.io/alphazero-connect4/)  
