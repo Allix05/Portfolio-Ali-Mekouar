@@ -3,7 +3,7 @@ Welcome to my GitHub portfolio! You'll find here all my recent projects, each wi
 ## Recent projects
 
 1. 🏆 [Hovercraft](https://github.com/Allix05/HOVERCRAFT) &mdash; *award-winning project*  
-   A simulated hovercraft that autonomously navigates and completes a maze, built in C.  
+   A simulated hovercraft that autonomously navigates and completes a maze, built in C#.  
    Uses onboard sensors to detect walls and obstacles in real time and steer accordingly. **Public**.
 
 
