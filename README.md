@@ -2,8 +2,8 @@
 Bienvenue sur mon portfolio GitHub !   Vous trouverez ici tous mes projets récents, avec une courte description et un lien direct vers chaque repository.
 ## Projets récents
 
-1. [AlphaZero Connect Four](https://github.com/Allix05/alphazero-connect4)  
-   Implémentation from-scratch avec Claude AI de l'algorithme AlphaZero (apprentissage par renforcement en auto-jeu + Monte Carlo Tree Search guidé par un réseau de neurones PyTorch) appliqué au Puissance 4, avec une interface web (FastAPI + JS) pour affronter l'IA et visualiser sa recherche en direct. **Public**.
+1. [AlphaZero Connect Four](https://github.com/Allix05/alphazero-connect4) &mdash; [**jouer en ligne**](https://allix05.github.io/alphazero-connect4/)  
+   Implémentation from-scratch avec Claude AI de l'algorithme AlphaZero (apprentissage par renforcement en auto-jeu + Monte Carlo Tree Search guidé par un réseau de neurones PyTorch) appliqué au Puissance 4. Le modèle entraîné tourne directement dans le navigateur (ONNX + WebAssembly) : affrontez l'IA et visualisez sa recherche en direct, sans serveur. **Public**.
 
 
 2. [Student Event Hub - SOEN341](https://github.com/Allix05/SOEN-341---PROJECT-1---Student-Event_hub)  
