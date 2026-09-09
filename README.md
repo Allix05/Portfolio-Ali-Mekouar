@@ -17,8 +17,8 @@ Welcome to my GitHub portfolio! You'll find here all my recent projects, each wi
    Runs entirely client-side &mdash; no backend, camera never leaves your device. **Public**.
 
 
-4. [Chordinate](https://github.com/Allix05/chordinate) &mdash; [**play it live**](https://allix05.github.io/chordinate/)  
-   Play chords in the air: webcam hand tracking (MediaPipe) maps each raised finger to a chord tone (thumb=root, index=3rd, middle=5th, ring=7th, pinky=octave), synthesized live with Tone.js across five selectable instruments.  
+4. [Harmonics](https://github.com/Allix05/harmonics) &mdash; [**play it live**](https://allix05.github.io/harmonics/)  
+   Play chords in the air: webcam hand tracking (MediaPipe) maps each raised finger to a chord tone (thumb=root, index=3rd, middle=5th, ring=7th, pinky=octave), synthesized live with Tone.js across six selectable instruments.  
    Runs entirely client-side &mdash; no backend, camera never leaves your device. **Public**.
 
 
