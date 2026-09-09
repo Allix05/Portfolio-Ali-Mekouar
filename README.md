@@ -27,6 +27,11 @@ Welcome to my GitHub portfolio! You'll find here all my recent projects, each wi
    The trained model runs entirely client-side (ONNX + WebAssembly) &mdash; play against the AI and watch its search live, no server involved. **Public**.
 
 
-6. [Student Event Hub - Private Archive](https://github.com/Allix05/Student-Event-Hub-SOEN341)  
+6. [Holosketch](https://github.com/Allix05/holosketch) &mdash; [**play it live**](https://allix05.github.io/holosketch/)  
+   Pinch-draw a shape in the air with your webcam and extrude it into a real 3D hologram (Three.js/WebGL) floating over the camera feed &mdash; pinch it again to pick it up, move your hand to carry it around, and turn your wrist to spin it.  
+   Runs entirely client-side &mdash; no backend, camera never leaves your device. **Public**.
+
+
+7. [Student Event Hub - Private Archive](https://github.com/Allix05/Student-Event-Hub-SOEN341)  
    A private archive of the Student Event Hub project, kept for reference.  
    Contains earlier versions and experimental branches not part of the public release. **Private** &ndash; access by invitation.
