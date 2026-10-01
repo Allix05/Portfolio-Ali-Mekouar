@@ -35,3 +35,4 @@ Welcome to my GitHub portfolio! You'll find here all my recent projects, each wi
 7. [Student Event Hub - Private Archive](https://github.com/Allix05/Student-Event-Hub-SOEN341)  
    A private archive of the Student Event Hub project, kept for reference.  
    Contains earlier versions and experimental branches not part of the public release. **Private** &ndash; access by invitation.
+
