@@ -34,7 +34,7 @@ Welcome to my GitHub portfolio! You'll find here all my recent projects, each wi
 
 7. [TabForge](https://github.com/Allix05/tabforge) &mdash; [**try it live**](https://allix05.github.io/tabforge/)  
    Turn any song (audio file, YouTube or Spotify link) into playable 6-string guitar tabs with a Songsterr-style synced player: transcribe the guitar part, or turn the vocal melody, a piano/synth lead, or the whole song into a fingerstyle arrangement.  
-   Spotify's Basic Pitch runs in the browser (TensorFlow.js) for note transcription, and an optional one-click local helper adds YouTube/Spotify links and Demucs stem separation. Beat tracking, melody extraction and fret assignment are done with dynamic programming. Free to use. **Public**.
+   Its guitar model is Spotify's Basic Pitch fine-tuned in PyTorch on GuitarSet's real tabs plus high-gain, palm-mute and synthetic metal-riff augmentation, with a string head that hears which string each note is on. On held-out recordings it nearly doubles note accuracy in a full metal mix (0.37 → 0.67 F1). It runs in the browser on ONNX/WebAssembly, and an optional one-click local helper adds YouTube/Spotify links and Demucs stem separation. Free to use. **Public**.
 
 
 8. [Student Event Hub - Private Archive](https://github.com/Allix05/Student-Event-Hub-SOEN341)  
