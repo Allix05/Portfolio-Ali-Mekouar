@@ -32,7 +32,12 @@ Welcome to my GitHub portfolio! You'll find here all my recent projects, each wi
    Runs entirely client-side &mdash; no backend, camera never leaves your device. **Public**.
 
 
-7. [Student Event Hub - Private Archive](https://github.com/Allix05/Student-Event-Hub-SOEN341)  
+7. [TabForge](https://github.com/Allix05/tabforge) &mdash; [**try it live**](https://allix05.github.io/tabforge/)  
+   Turn any song (audio file, YouTube or Spotify link) into playable 6-string guitar tabs with a Songsterr-style synced player: transcribe the guitar part, or turn the vocal melody, a piano/synth lead, or the whole song into a fingerstyle arrangement.  
+   Spotify's Basic Pitch runs in the browser (TensorFlow.js) for note transcription, and an optional one-click local helper adds YouTube/Spotify links and Demucs stem separation. Beat tracking, melody extraction and fret assignment are done with dynamic programming. Free to use. **Public**.
+
+
+8. [Student Event Hub - Private Archive](https://github.com/Allix05/Student-Event-Hub-SOEN341)  
    A private archive of the Student Event Hub project, kept for reference.  
    Contains earlier versions and experimental branches not part of the public release. **Private** &ndash; access by invitation.
 
